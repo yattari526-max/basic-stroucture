@@ -1,0 +1,24 @@
+<p>[M.ZamzamRaza]</p>
+<p>[bahar colony ]</p>
+<p>[city, st zip ]</p>
+<p>[optional email addres]</p>
+
+<p>[8th may 2026]</p>
+
+<p>[name of recipient]</p>
+<p>[A job application]</p>
+<p>[comany]</p>
+<p>[addres]</p>
+<p>[city, st zip]</p>
+
+<p>Dear[Name of resipient]</p>
+
+<p>I am excited apply for the [job title]position at [Company name]. With my experience in [mention relevant skills
+or experience].Iam confidans in my ability to contribute to your team and help achieve [spesefic compny goal].
+In my previous roles at[your previuos company].I [mention key acivement  or responsiblety of relavant to the roles].This experience has eqqupide me with 
+[spesific skills]that align with the job requinements.
+I am impressed by[company name's]force on [spesific value or initiative]and would love the opportunity to bring my expertise in[spesific area]to your team.
+Thank you for consideration my application.I look forward to discuss how I can contribute to [company name]sucess.</p>
+
+cenceriy.
+[M.ZamzamRaza]
